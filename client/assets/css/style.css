@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+}
+
+table {
+    height: 100%;
+    width: 100%;
+    border-spacing: 0px;
+    border-collapse:collapse;
+    text-align: center;
+    font-weight: bold;
+}
+ td {
+    padding: 0px;
+    margin: 0px;
+    border-style:solid;
+    border-width:4px;
+    border-color:yellow;
+    color: yellow;
+    font-family: arial;
+}
+
+.name {
+    height: 1%;
+}
+
+.name{
+  font-size: 80px;
+}
+
+.total{
+  height: 1%;
+  font-size: 100px;
+}
+
+.display{
+  height: 1%;
+  font-size: 100px;
+}
+
+.current{
+  height: 1%;
+  font-size: 150px;
+}

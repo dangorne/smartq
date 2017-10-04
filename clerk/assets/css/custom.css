@@ -1,0 +1,6 @@
+.top-buffer { margin-top:0px; }
+
+.table-queuer {
+  height:500px;
+  overflow-y: auto;
+}

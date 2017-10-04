@@ -1,0 +1,11 @@
+mysql://b0252b3bd12aea:25e21810@us-cdbr-iron-east-05.cleardb.net/heroku_bb9292562ff9dbe?reconnect=false
+
+
+host: us-cdbr-iron-east-05.cleardb.net
+user: b0252b3bd12aea
+pass: 25e21810
+database: heroku_bb9292562ff9dbe
+
+smartqclient.herokuapp.com
+smartqsubscriber.herokuapp.com
+smartqclerk.herokuapp.com
